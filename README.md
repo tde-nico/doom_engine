@@ -8,6 +8,8 @@ Rendering
 Python
 
 #frames and libs
+Numba
+Pygame
 
 -->
 
